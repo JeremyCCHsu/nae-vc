@@ -335,6 +335,11 @@ footer a:hover {
   content: '.';
 }
 
+div FigCenter {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
